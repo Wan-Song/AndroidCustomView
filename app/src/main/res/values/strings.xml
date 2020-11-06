@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidCustomView</string>
+    <string name="swap_color">SWAP COLOR</string>
+</resources>
